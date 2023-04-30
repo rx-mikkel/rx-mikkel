@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikkel
 - 👀 I’m interested in front-end development and a bit of Quake
-- 🌱 I’m currently learning React
+- 🌱 I’m currently Qwik
 - 💞️ I’m looking to collaborate on my quake3 instagib based game
 - 📫 How to reach me: mikkeloerum@gmail.com
 
